@@ -1,3 +1,3 @@
 # Krigging_Dhaka_Iron
-# spatial interpolatoion of GW Iron Concentation in Dhaka City
+# Spatial interpolation of GW Iron Concentration in Dhaka City
 # For Interpolation Kriging method is used
